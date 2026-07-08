@@ -18,13 +18,15 @@ const Hero = () => {
           {/* LEFT */}
           <div className="flex flex-col gap-6">
             <h1 className="text-white font-black text-[18px] sm:text-[40px] leading-tight">
-               Software Developer • AI Programmer • Web Creator<br />
+              Software Developer • AI Programmer • Web Creator
+              <br />
               <span className="text-[#915eff]">EMMANUEL</span>
             </h1>
 
             <p className="text-[#dfd9ff] max-w-xl text-[18px] leading-relaxed">
-              I build modern software, AI-powered applications, and high-performance websites 
-              that combine innovation, clean architecture, and exceptional user experiences.
+              I build modern software, AI-powered applications, and
+              high-performance websites that combine innovation, clean
+              architecture, and exceptional user experiences.
             </p>
 
             <div className="flex gap-8 mt-4">
@@ -41,7 +43,9 @@ const Hero = () => {
               </div>
 
               <div>
-                <p className="text-white text-2xl font-bold">Software Developer</p>
+                <p className="text-white text-2xl font-bold">
+                  Software Developer
+                </p>
                 <p className="text-secondary text-sm">Core Focus</p>
               </div>
             </div>

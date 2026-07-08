@@ -67,8 +67,11 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a software engineer with hands-on experience.
-        I enjoy transforming ideas into real-world products through clean code, thoughtful design, and continuous learning. Whether it's a business website, an AI assistant, or a full-stack application, my goal is always to create software that is fast, reliable, and impactful.
+        I am a software engineer with hands-on experience. I enjoy transforming
+        ideas into real-world products through clean code, thoughtful design,
+        and continuous learning. Whether it's a business website, an AI
+        assistant, or a full-stack application, my goal is always to create
+        software that is fast, reliable, and impactful.
         <div className="mt-5 flex flex-row flex-wrap justify-normal gap-3">
           {profileLinks.map((profile, index) => (
             <ProfileCard key={`project-${index}`} {...profile} />

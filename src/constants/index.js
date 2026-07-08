@@ -84,15 +84,15 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'Jun 2025',
     points: [
-  'Designed and developed responsive, user-friendly web applications using modern frontend and backend technologies.',
-  'Built full-stack applications with clean, scalable architecture and reusable components.',
-  'Developed AI-powered applications and chatbot solutions by integrating Large Language Models (LLMs) and AI APIs.',
-  'Implemented secure authentication systems, RESTful APIs, and database integration for dynamic web applications.',
-  'Optimized application performance, responsiveness, and user experience across desktop and mobile devices.',
-  'Collaborated with designers and stakeholders to transform concepts into production-ready digital products.',
-  'Managed application deployment, version control, and continuous improvements using Git and modern development workflows.',
-  'Tech Stack: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, Python, MongoDB, PostgreSQL, Tailwind CSS, Git, Docker, OpenAI API.'
-],
+      'Designed and developed responsive, user-friendly web applications using modern frontend and backend technologies.',
+      'Built full-stack applications with clean, scalable architecture and reusable components.',
+      'Developed AI-powered applications and chatbot solutions by integrating Large Language Models (LLMs) and AI APIs.',
+      'Implemented secure authentication systems, RESTful APIs, and database integration for dynamic web applications.',
+      'Optimized application performance, responsiveness, and user experience across desktop and mobile devices.',
+      'Collaborated with designers and stakeholders to transform concepts into production-ready digital products.',
+      'Managed application deployment, version control, and continuous improvements using Git and modern development workflows.',
+      'Tech Stack: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, Python, MongoDB, PostgreSQL, Tailwind CSS, Git, Docker, OpenAI API.',
+    ],
   },
   {
     title: 'AI Programmer',
@@ -101,7 +101,7 @@ const experiences = [
     date: 'Jun 2025 - present',
     points: [
       'Building AI-powered applications and intelligent automation solutions.',
-      "Developing AI chatbots and integrating Large Language Models (LLMs).",
+      'Developing AI chatbots and integrating Large Language Models (LLMs).',
       'Experimenting with emerging AI technologies and workflows.',
       'Integrating AI APIs into web and software applications.',
       'Creating smart software using modern AI technologies.',
