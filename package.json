@@ -17,6 +17,7 @@
     "@emailjs/browser": "^3.11.0",
     "@react-three/drei": "^9.83.9",
     "@react-three/fiber": "^8.14.1",
+    "@vercel/analytics": "^2.0.1",
     "lucide-react": "^0.562.0",
     "maath": "^0.7.0",
     "react": "^18.2.0",
